@@ -3,10 +3,15 @@ Hola soy Alejandro tengo 15 años
 
 ahora son 9 horas pipipi
 
+<<<<<<< HEAD
 
 experimento 1 
 
 experimento 2
+=======
+master 1
+
+>>>>>>> bb21504 (master 1)
 tengo novia
 
 Quiere comprarse un iphone, pero no le alcanza
